@@ -1,0 +1,21 @@
+Media Items:
+------------
+--Book--
+-Name:Cosmos
+-Genre:Sci-fi
+-Author:Carl Sagan
+
+--Book--
+-Name:Inferno
+-Genre:Action
+-Author:Dan Brown
+
+--MusicRecord--
+-Name:Mary on a cross
+-Genre:Rock
+-Producer:Ghost
+
+Library Members:
+---------------
+-Mustafa
+-Edo
